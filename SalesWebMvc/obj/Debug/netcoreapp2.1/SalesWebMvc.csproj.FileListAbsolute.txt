@@ -34,4 +34,3 @@ D:\Saves\Visual Studio\Exercicios Udemy\ASP\SalesWebMvc\SalesWebMvc\obj\Debug\ne
 D:\Saves\Visual Studio\Exercicios Udemy\ASP\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\Saves\Visual Studio\Exercicios Udemy\ASP\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 D:\Saves\Visual Studio\Exercicios Udemy\ASP\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
-D:\Saves\Visual Studio\Exercicios Udemy\ASP\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
